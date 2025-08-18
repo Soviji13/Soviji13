@@ -1,5 +1,5 @@
 
-![Soviji13 banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:64d8c3,100:b2fefa&text=Soviji13&textBg=false&fontColor=e0ffff&animation=fadeIn&desc=Sofia%20Si%20Villalba%20Jimenez&reversal=false&descSize=20&descAlignY=80)
+![Soviji13 banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:64d8c3,100:40a070&text=Soviji13&textBg=false&fontColor=e0ffff&animation=fadeIn&desc=Sofia%20Si%20Villalba%20Jimenez&reversal=false&descSize=20&descAlignY=80)
 
 
 - 👀 I’m interested in video game development, front-end, and using code to create interactive and visual experiences (like generative art, UI design, and animations).

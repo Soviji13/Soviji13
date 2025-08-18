@@ -1,8 +1,6 @@
-<!-- Banner para modo oscuro -->
-![Soviji13 banner dark](https://capsule-render.vercel.app/api?type=venom&height=600&color=0:64d8c3,100:b2fefa&text=Soviji13&textBg=false&fontColor=ffffff&animation=twinkling&desc=Sofia%20Si%20Villalba%20Jimenez)
 
-<!-- Banner para modo claro -->
-![Soviji13 banner light](https://capsule-render.vercel.app/api?type=venom&height=600&color=0:64d8c3,100:b2fefa&text=Soviji13&textBg=false&fontColor=000000&animation=twinkling&desc=Sofia%20Si%20Villalba%20Jimenez)
+![Soviji13 banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:64d8c3,100:b2fefa&text=Soviji13&textBg=false&fontColor=8fafaf&animation=twinkling&desc=Sofia%20Si%20Villalba%20Jimenez&reversal=false&descSize=20&descAlignY=80)
+
 
 - 👀 I’m interested in video game development, front-end, and using code to create interactive and visual experiences (like generative art, UI design, and animations).
 - ✨ I’m also passionate about music production, 3D modeling, and graphic design — I love mixing tech and art in everything I do.

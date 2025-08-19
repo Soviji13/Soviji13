@@ -16,9 +16,14 @@
 	<img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
 </div>
 
+<div align="center">
+    <h2>Hi there! 👋 I'm Sofia</h2>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soviji13&layout=donut-vertical">
+    <p></p>
+</div>
+
 
 <div align="center">
-    <h2>Hi there! � I'm Sofia</h2>
     <p>🎮 I’m interested in <b>video game development</b>, <b>front-end</b>, and using code to create interactive and visual experiences (generative art, UI design, animations).</p>
     <p>🎵 I’m also passionate about <b>music production</b>, <b>3D modeling</b>, and <b>graphic design</b> — I love mixing tech and art in everything I do.</p>
     <p>🌱 Currently learning: <b>Java, C, C++, R, Markdown, Python, Haskell, frontEnd, Luau</b>.</p>

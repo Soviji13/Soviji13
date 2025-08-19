@@ -12,7 +12,7 @@
 	<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 	<img src="https://img.shields.io/badge/SQL-2e8b57?style=for-the-badge&logo=postgresql&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=arm&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffd43b"/>
+	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
 	<img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
 </div>
 

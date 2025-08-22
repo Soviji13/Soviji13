@@ -1,5 +1,8 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:64d8c3,100:40a070&text=Soviji13&textBg=false&fontColor=e0ffff&animation=fadeIn&desc=Sofia%20Si%20Villalba%20Jimenez&reversal=false&descSize=20&descAlignY=80"/>
+</div>
+
+<div align="center">
 	<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
 	<img src="https://img.shields.io/badge/C-222222?style=for-the-badge&logo=c&logoColor=white"/>
 	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>

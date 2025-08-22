@@ -1,8 +1,5 @@
-
-
-![Soviji13 banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:64d8c3,100:40a070&text=Soviji13&textBg=false&fontColor=e0ffff&animation=fadeIn&desc=Sofia%20Si%20Villalba%20Jimenez&reversal=false&descSize=20&descAlignY=80)
-
 <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:64d8c3,100:40a070&text=Soviji13&textBg=false&fontColor=e0ffff&animation=fadeIn&desc=Sofia%20Si%20Villalba%20Jimenez&reversal=false&descSize=20&descAlignY=80"/>
 	<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
 	<img src="https://img.shields.io/badge/C-222222?style=for-the-badge&logo=c&logoColor=white"/>
 	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -15,6 +12,8 @@
 	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
 	<img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
 </div>
+
+---
 
 <div align="center">
     <h2>Hi there! 👋 I'm Sofia</h2>
@@ -30,6 +29,7 @@
     <p>📖 Studying <b>Informatics Engineering</b> at the University of Málaga, soon switching to <b>Software Engineering</b>.</p>
 </div>
 
+---
 
 <div align="center">
     <table align="center">

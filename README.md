@@ -3,17 +3,7 @@
 </div>
 
 <div align="center">
-	<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
-	<img src="https://img.shields.io/badge/C-222222?style=for-the-badge&logo=c&logoColor=white"/>
-	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222"/>
-	<img src="https://img.shields.io/badge/CSS-8a2be2?style=for-the-badge&logo=css&logoColor=white"/>
-	<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-	<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-	<img src="https://img.shields.io/badge/SQL-2e8b57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=arm&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-	<img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
+	<img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white"/>
 </div>
 
 ---

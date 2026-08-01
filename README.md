@@ -4,56 +4,30 @@
 
 <div align="center">
 	<img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white"/>
+	<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
 </div>
 
 ---
 
 <div align="center">
     <h2>Hi there! 👋 I'm Sofia</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soviji13&layout=donut-vertical">
-    <p></p>
 </div>
 
 
-<div align="center">
-    <p>🎮 I’m interested in <b>video game development</b>, <b>front-end</b>, and using code to create interactive and visual experiences (generative art, UI design, animations).</p>
-    <p>🎵 I’m also passionate about <b>music production</b>, <b>3D modeling</b>, and <b>graphic design</b> — I love mixing tech and art in everything I do.</p>
-    <p>🌱 Currently learning: <b>Java, C, C++, R, Markdown, Python, Haskell, frontEnd, Luau</b>.</p>
-    <p>📖 Studying <b>Informatics Engineering</b> at the University of Málaga, soon switching to <b>Software Engineering</b>.</p>
-</div>
+* 🛠️ **Currently:** Working on my own full-stack projects to refine my architecture, system design, and development skills, while learning the ins and outs of deploying web and mobile apps to production.
+* 🎓 **Education:** Final-year **Software Engineering** student at the **University of Málaga**, specializing in mobile and web development.
 
 ---
 
-<div align="center">
-    <table align="center">
-        <tr>
-            <td align="center"><b>Contact Me 👍🤠</b></td>
-            <td align="center">
-                <a href="mailto:sofiasivillalbajimenez@gmail.com"><img src="https://img.shields.io/badge/sofiasivillalbajimenez@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-                <a href="https://www.linkedin.com/in/sofía-villalba-jiménez-ab4453353/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-            </td>
-        </tr>
-        <tr>
-            <td align="center"><b>Tools I Use 🛠️</b></td>
-            <td align="center">
-                <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-                <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white"/>
-                <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-                <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/>
-                <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E"/>
-                <img src="https://img.shields.io/badge/Roblox studio-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
-            </td>
-        </tr>
-        <tr>
-            <td align="center"><b>Favorite OS ⭐️</b></td>
-            <td align="center">
-                <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-            </td>
-        </tr>
-            </td>
-        </tr>
-    </table>
-</div>
+## 💼 Freelance & Commissions
+
+If you have a small project or simple task in mind, feel free to reach out! I'm open to quick commissions to gain experience and earn some extra income.
+
+Connect or hire me through:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofía-villalba-jiménez-ab4453353/?skipRedirect=true)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://es.fiverr.com/soviji13/buying?source=avatar_menu_profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofiasivillalbajimenez@gmail.com)
 
 
 <!---
